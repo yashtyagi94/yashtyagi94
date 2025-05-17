@@ -11,7 +11,7 @@
 - 🌱 Currently exploring **Machine Learning, NLP, and Deep Learning**
 - 🚀 Regularly solving **DSA problems on LeetCode and GeeksforGeeks**
 - 🔭 Building projects in **Python | ML | Data Visualization**
-- 📝 My GeeksForGeeks profile ()
+- 📝 My GeeksForGeeks profile (https://www.geeksforgeeks.org/user/yashtyag33nr/)
 - 📝 My LeetCode profile (https://leetcode.com/u/yash_tyagi_4/)
 - 📫 Reach me at: **[yashtyagi618694@gmail.com]**
 - 💼 Connect with me on [LinkedIn][(https://www.linkedin.com/in/yash-tyagi-82a477270/)]
