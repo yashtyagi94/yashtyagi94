@@ -66,10 +66,8 @@
 ---
 
 ## 📌 Pinned Repositories (Example)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=ML-Projects&theme=radical)](https://github.com/your-username/ML-Projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=EDA-CaseStudies&theme=radical)](https://github.com/your-username/EDA-CaseStudies)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Leetcode-Solutions&theme=radical)](https://github.com/your-username/Leetcode-Solutions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=SQL-Projects&theme=radical)](https://github.com/your-username/SQL-Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashtyagi94&repo=DocuSynthAI&theme=radical)](https://github.com/yashtyagi94/DocuSynthAI)
+
 
 ---
 
