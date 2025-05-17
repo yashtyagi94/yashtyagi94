@@ -42,15 +42,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashtyagi94&show_icons=true&theme=radical" alt="yashtyagi94" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashtyagi94&theme=radical" alt="yashtyagi94" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashtyagi94&show_icons=true&theme=onedark" alt="yashtyagi94" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashtyagi94&theme=onedark" alt="yashtyagi94" />
 </p>
 
 ---
 
 ## 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtyagi94&layout=compact&theme=radical" alt="yashtyagi94" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtyagi94&layout=compact&theme=onedark" alt="yashtyagi94" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ---
 
 ## 📌 Pinned Repositories (Example)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashtyagi94&repo=DocuSynthAI&theme=radical)](https://github.com/yashtyagi94/DocuSynthAI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yashtyagi94&repo=DocuSynthAI&theme=onedark)](https://github.com/yashtyagi94/DocuSynthAI)
 
 
 ---
