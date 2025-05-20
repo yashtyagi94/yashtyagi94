@@ -55,13 +55,22 @@
 
 ---
 
-## 🧠 Featured Projects
-- 🔎 **Exploratory Data Analysis** - EDA on real-world datasets like Titanic, IPL, Zomato
-- 🤖 **Machine Learning Models** - Linear Regression, Classification, Clustering, Decision Trees
-- 🗣️ **NLP Projects** - Text Classification, Sentiment Analysis
-- 🖥️ **Deep Learning Projects** - Image Classification, CNN models
-- 🌐 **Web Apps using Streamlit/Flask** - ML Model deployment demos
-- 📚 **DSA Repositories** - Leetcode, GFG, 160 Days Challenge
+## 🌟 Projects
+
+### 🟢 Eye Blink Detection
+- 🛠️ **Tech**: OpenCV, MediaPipe  
+- 👀 Detects eye blinks in real-time  
+- 🚀 Accurate detection with minimal false positives
+
+### ❤️ Heart Disease Prediction
+- 🧠 **Tech**: Machine Learning, Flask  
+- 🩺 Predicts the risk of heart disease from patient data  
+- ⚙️ Deployed as a web app for real-time predictions
+
+### 🧠 Alzheimer’s Disease Classification
+- 🧪 **Tech**: Deep Learning, CNN, Keras  
+- 🖼️ Classifies brain MRI scans into Alzheimer’s stages  
+- 📈 Achieved high accuracy using model fine-tuning
 
 ---
 
@@ -73,10 +82,10 @@
 
 ## 📫 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/your_username/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/your_username/" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yashtyagi94/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yashtyagi618694@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/yash_tyagi_4/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/yashtyagi33nr/" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/></a>
 </p>
 
 ---
