@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashtyagi94&show_icons=true&theme=onedark" alt="yashtyagi94" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashtyagi94&theme=onedark" alt="yashtyagi94" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashtyagi94&theme=onedark" alt="yashtyagi94" /> -->
 </p>
 
 ---
@@ -85,7 +85,7 @@
   <a href="https://www.linkedin.com/in/yashtyagi94/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yashtyagi618694@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/yash_tyagi_4/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/yashtyagi33nr/" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/user/yashtyag33nr/" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/></a>
 </p>
 
 ---
